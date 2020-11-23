@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MvcEntity.Models
 {
-    public class Produto
+    public class Produtos
     {
         public int Id { get; set; }
         public string Descricao { get; set; }
